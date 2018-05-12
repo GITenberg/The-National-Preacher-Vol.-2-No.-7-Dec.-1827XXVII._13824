@@ -1,0 +1,46 @@
+_repo: The-National-Preacher-Vol.-2-No.-7-Dec.-1827XXVII._13824
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Baldwin, Elihu W. (Elihu Whittlesey)
+    alias: Baldwin, Elihu Whittlesey
+    birthdate: 1789
+    deathdate: 1840
+    gutenberg_agent_id: '5237'
+    url: http://www.gutenberg.org/2009/agents/5237
+  - agent_name: Leland, Aaron W. (Aaron Whitney)
+    alias: Leland, Aaron Whitney
+    birthdate: 1787
+    deathdate: 1871
+    gutenberg_agent_id: '5236'
+    url: http://www.gutenberg.org/2009/agents/5236
+  editor:
+    agent_name: Dickinson, Austin
+    birthdate: 1791
+    deathdate: 1849
+    gutenberg_agent_id: '7949'
+    url: http://www.gutenberg.org/2009/agents/7949
+description: ''
+gutenberg_bookshelf:
+- The National Preacher
+- Christianity
+gutenberg_issued: '2004-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13824'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Sermons -- Periodicals'
+title: 'The National Preacher, Vol. 2 No. 7 Dec. 1827
+
+  Or Original Monthly Sermons from Living Ministers, Sermons XXVI. and
+
+  XXVII.'
+url: http://www.gutenberg.org/ebooks/13824
